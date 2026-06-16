@@ -32,7 +32,7 @@ While this open-source boilerplate is perfect for small sites and manual local t
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/datawinder/sitemap-deploy-guard.git
+git clone https://github.com/datawinder-labs/sitemap-deploy-guard.git
 cd sitemap-deploy-guard
 npm install
 ```
